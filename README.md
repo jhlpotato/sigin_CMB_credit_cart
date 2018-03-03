@@ -3,8 +3,11 @@
 
 ### install
 `pip install itchat apscheduler`
+
 `git clone git@github.com:jhlpotato/sigin_CMB_credit_cart.git`
+
 `cd sigin_CMB_credit_cart`
+
 `python sigin_CMB_credit_cart`
 
 ### 实现原理
