@@ -8,7 +8,7 @@
 
 `cd sigin_CMB_credit_cart`
 
-`python sigin_CMB_credit_cart`
+`python sigin_CMB_credit_card.py`
 
 ### 实现原理
 1. 使用itchat的库登录到微信
